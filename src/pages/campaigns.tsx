@@ -50,7 +50,7 @@ const items = [
 ]
 
 export const Campaigns = () => {
-  return <div className="max-w-screen-lg mx-auto w-full">
+  return <div className="max-w-screen-lg mx-auto w-full py-20">
     {/* دیتای داخل تب مرتبط  *************************/}
     <Tabs defaultValue="web-design">
       <TabsList className="inline-flex mx-auto justify-center items-center my-4">
